@@ -1,0 +1,2 @@
+# springcloud_consul_servername
+本项目类似springcloud_consul项目，不同之处在于本项目采用spring.application.name配置属性获取远端服务实例
