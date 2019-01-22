@@ -8,3 +8,5 @@
 @Autowired private RestTemplate restTemplate;
 
 List instances = discoveryClient.getInstances("consul-member");
+
+本例中附带consul服务端安装包压缩文件
